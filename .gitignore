@@ -1,0 +1,5 @@
+.pio/
+.vscode/
+images/.gitkeep
+src/main_backup_nuke_animation.cpp
+src/test_oled_soil.cpp
