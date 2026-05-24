@@ -32,25 +32,6 @@
 
 ---
 
-## Shopping List (What You Need to Buy)
-
-| # | Component | Approx. Cost | Where to Buy |
-|---|-----------|-------------|--------------|
-| 1 | ESP32-C3 SuperMini | ~₹250 / $3 | AliExpress, Amazon |
-| 2 | 0.96" or 1.3" OLED (I2C, 128x64, SSD1306) | ~₹150 / $2 | Amazon, Robu.in |
-| 3 | Soil Moisture Sensor (analog output, with comparator board) | ~₹50 / $1 | Amazon |
-| 4 | 5V Relay Module (1-channel, active-low) | ~₹40 / $1 | Amazon |
-| 5 | Mini Water Pump (3-6V DC submersible) | ~₹80 / $1.5 | Amazon |
-| 6 | 5V Power Supply / USB adapter (for pump) | ~₹100 / $2 | Any phone charger works |
-| 7 | Push Button (normally open) | ~₹10 / $0.2 | Electronics shop |
-| 8 | Jumper wires (female-to-female, male-to-female) | ~₹50 / $1 | Amazon |
-| 9 | Silicone tubing (4-6mm, for water) | ~₹50 / $1 | Amazon |
-| 10 | (Optional) 3D-printed case | — | Print from `cad/` folder STL files |
-
-**Total cost: approximately ₹780 / $12**
-
----
-
 ## Step-by-Step Build Guide
 
 ### Step 1: Understand the System
